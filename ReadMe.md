@@ -1,0 +1,21 @@
+# Multiplayer Games
+
+| Name                             | Maximum Number of Players | Links                                                                                                                                                       |
+| -------------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Borderlands 2                    | 4                         | • [Steam](https://store.steampowered.com/agecheck/app/49520/) <br/> • [Downgrade](https://steamcommunity.com/sharedfiles/filedetails/?id=2014284368)        |
+| Broforce                         | 4                         | • [GOG](https://www.gog.com/game/broforce) <br/> • [Steam](https://store.steampowered.com/app/274190/Broforce/)                                             |
+| Castle Crashers                  | 4                         | • [Steam](https://store.steampowered.com/app/204360/Castle_Crashers/)                                                                                       |
+| Overcooked! 2                    | 4                         | • [Steam](https://store.steampowered.com/app/728880/Overcooked_2/)                                                                                          |
+| Tricky Towers                    | 4                         | • [Steam](https://store.steampowered.com/app/437920/)                                                                                                       |
+| TowerFall Ascension              | 4                         | • [Website](http://www.towerfall-game.com) <br/> • [Steam](https://store.steampowered.com/app/251470/TowerFall_Ascension/)                                  |
+| BZFlag                           | 5+                        | • [Website](https://www.bzflag.org)                                                                                                                         |
+| Counter-Strike: Global Offensive | 5+                        | • [Steam](https://store.steampowered.com/app/730)                                                                                                           |
+| Dota                             | 5+                        | • [Website](https://www.dota2.com) <br/> • [Steam](https://store.steampowered.com/app/570/Dota_2/)                                                          |
+| Don’t Starve Together            | 5+                        | • [Steam](https://store.steampowered.com/app/322330/Dont_Starve_Together/)                                                                                  |
+| Factorio                         | 5+                        | • [Website](https://www.factorio.com) <br/> • [GOG](https://www.gog.com/game/factorio) <br/> • [Steam](https://store.steampowered.com/app/1536610/OpenTTD/) |
+| OpenTTD                          | 5+                        | • [Website](https://www.openttd.org/) <br/> • [Steam](https://store.steampowered.com/app/1536610/OpenTTD/)                                                  |
+| Quake 3 Arena                    | 5+                        | • [ioquake3](https://github.com/ioquake/ioq3) <br/> • [Quake3e](https://github.com/ec-/Quake3e)                                                             |
+| Skribbl                          | 5+                        | • [Website](https://skribbl.io)                                                                                                                             |
+| StarCraft 2                      | 5+                        | • [Website](https://starcraft2.com)                                                                                                                         |
+| Teeworlds                        | 5+                        | • [Website](https://www.teeworlds.com) <br/> • [Steam](https://store.steampowered.com/app/380840/Teeworlds/)                                                |
+| Unreal Tournament                | 5+                        | • [OldUnreal](https://github.com/OldUnreal/UnrealTournamentPatches)                                                                                         |
