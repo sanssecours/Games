@@ -10,6 +10,7 @@
 | The Escapist 2                   | 4                         | • [Steam](https://store.steampowered.com/app/641990/The_Escapists_2/)                                                                                       |
 | Just Shapes & Beats              | 4                         | • [Steam](https://store.steampowered.com/app/531510/Just_Shapes__Beats/)                                                                                    |
 | Overcooked! 2                    | 4                         | • [Steam](https://store.steampowered.com/app/728880/Overcooked_2/)                                                                                          |
+| Paint the Town Red               | 4                         | • [Steam](https://store.steampowered.com/app/337320/Paint_the_Town_Red/)                                                                                    |
 | Stick Fight: The Game            | 4                         | • [Steam](https://store.steampowered.com/app/674940/)                                                                                                       |
 | TowerFall Ascension              | 4                         | • [Website](http://www.towerfall-game.com) <br/> • [Steam](https://store.steampowered.com/app/251470/TowerFall_Ascension/)                                  |
 | Tricky Towers                    | 4                         | • [Steam](https://store.steampowered.com/app/437920/)                                                                                                       |
