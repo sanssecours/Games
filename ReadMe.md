@@ -6,6 +6,7 @@
 | Borderlands 2                    | 4                         | • [Steam](https://store.steampowered.com/agecheck/app/49520/) <br/> • [Downgrade](https://steamcommunity.com/sharedfiles/filedetails/?id=2014284368)        |
 | Broforce                         | 4                         | • [GOG](https://www.gog.com/game/broforce) <br/> • [Steam](https://store.steampowered.com/app/274190/Broforce/)                                             |
 | Castle Crashers                  | 4                         | • [Steam](https://store.steampowered.com/app/204360/Castle_Crashers/)                                                                                       |
+| Just Shapes & Beats              | 4                         | • [Steam](https://store.steampowered.com/app/531510/Just_Shapes__Beats/)                                                                                    |
 | Overcooked! 2                    | 4                         | • [Steam](https://store.steampowered.com/app/728880/Overcooked_2/)                                                                                          |
 | Tricky Towers                    | 4                         | • [Steam](https://store.steampowered.com/app/437920/)                                                                                                       |
 | TowerFall Ascension              | 4                         | • [Website](http://www.towerfall-game.com) <br/> • [Steam](https://store.steampowered.com/app/251470/TowerFall_Ascension/)                                  |
