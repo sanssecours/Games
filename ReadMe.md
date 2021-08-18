@@ -10,8 +10,8 @@
 | TowerFall Ascension              | 4                         | • [Website](http://www.towerfall-game.com) <br/> • [Steam](https://store.steampowered.com/app/251470/TowerFall_Ascension/)                                  |
 | BZFlag                           | 5+                        | • [Website](https://www.bzflag.org)                                                                                                                         |
 | Counter-Strike: Global Offensive | 5+                        | • [Steam](https://store.steampowered.com/app/730)                                                                                                           |
-| Dota                             | 5+                        | • [Website](https://www.dota2.com) <br/> • [Steam](https://store.steampowered.com/app/570/Dota_2/)                                                          |
 | Don’t Starve Together            | 5+                        | • [Steam](https://store.steampowered.com/app/322330/Dont_Starve_Together/)                                                                                  |
+| Dota                             | 5+                        | • [Website](https://www.dota2.com) <br/> • [Steam](https://store.steampowered.com/app/570/Dota_2/)                                                          |
 | Golf It!                         | 5+                        | • [Steam](https://store.steampowered.com/app/571740/Golf_It/)                                                                                               |
 | Factorio                         | 5+                        | • [Website](https://www.factorio.com) <br/> • [GOG](https://www.gog.com/game/factorio) <br/> • [Steam](https://store.steampowered.com/app/1536610/OpenTTD/) |
 | OpenTTD                          | 5+                        | • [Website](https://www.openttd.org/) <br/> • [Steam](https://store.steampowered.com/app/1536610/OpenTTD/)                                                  |
@@ -19,5 +19,4 @@
 | Skribbl                          | 5+                        | • [Website](https://skribbl.io)                                                                                                                             |
 | StarCraft 2                      | 5+                        | • [Website](https://starcraft2.com)                                                                                                                         |
 | Teeworlds                        | 5+                        | • [Website](https://www.teeworlds.com) <br/> • [Steam](https://store.steampowered.com/app/380840/Teeworlds/)                                                |
-| Unrailed!                        | 4                         | • [Steam](https://store.steampowered.com/app/1016920/Unrailed/)                                                                                             |
 | Unreal Tournament                | 5+                        | • [OldUnreal](https://github.com/OldUnreal/UnrealTournamentPatches)                                                                                         |
