@@ -7,6 +7,7 @@
 | Broforce                         | 4                         | • [GOG](https://www.gog.com/game/broforce) <br/> • [Steam](https://store.steampowered.com/app/274190/Broforce/)                                             |
 | Castle Crashers                  | 4                         | • [Steam](https://store.steampowered.com/app/204360/Castle_Crashers/)                                                                                       |
 | Clone Drone in the Danger Zone   | 4                         | • [Steam](https://store.steampowered.com/app/597170/Clone_Drone_in_the_Danger_Zone/)                                                                        |
+| Death Squared                    | 4                         | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                                                                                         |
 | Divinity: Original Sin 2         | 4                         | • [Steam](https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/)                                                           |
 | Dying Light                      | 4                         | • [Steam](https://store.steampowered.com/app/239140/Dying_Light_Enhanced_Edition/)                                                                          |
 | The Escapist 2                   | 4                         | • [Steam](https://store.steampowered.com/app/641990/The_Escapists_2/)                                                                                       |
