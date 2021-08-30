@@ -1,3 +1,9 @@
+---
+title: Games
+author: René Schwaiger
+description: List of multiplayer games for macOS (Linux and Windows)
+---
+
 # Multiplayer Games
 
 | Name                             | Maximum Number of Players | Online Multiplayer | OS            | Links                                                                                                                                                       |
