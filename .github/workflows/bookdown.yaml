@@ -1,0 +1,52 @@
+name: Bookdown
+
+on:
+  push:
+     branches:
+       - main
+
+jobs:
+  build:
+    name: 🏗 Build
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - uses: r-lib/actions/setup-r@v1
+
+      - uses: r-lib/actions/setup-pandoc@v1
+
+      - name: Install bookdown
+        run: |
+          Rscript -e "install.packages(c('rmarkdown', 'bookdown'))"
+          Rscript -e "install.packages('tinytex')"
+          Rscript -e "tinytex::install_tinytex()"
+
+      - name: Build book
+        run: make
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Bookdown
+          path: Bookdown
+
+  deploy:
+    name: 📦 Deploy
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+
+     - name: Download HTML
+       uses: actions/download-artifact@v2
+       with:
+         name: Bookdown
+         path: Bookdown
+
+     - name: Deploy
+       uses: peaceiris/actions-gh-pages@v3
+       with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         publish_dir: Bookdown
