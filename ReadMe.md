@@ -4,7 +4,7 @@ author: René Schwaiger
 description: List of multiplayer games for macOS (Linux and Windows)
 ---
 
-# Multiplayer Games
+# macOS
 
 | Name                             |  # Players  | Online Multiplayer | OS              | Links                                                                                                                                                       |
 | -------------------------------- | :---------: | :----------------: | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,6 +46,12 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | Unreal Tournament                |   5+ (32)   |         ✅         | 🍏🐧🪟           | • [OldUnreal](https://github.com/OldUnreal/UnrealTournamentPatches)                                                                                         |
 
 <a name="32bit">🍎</a>: Only 32 bit version available
+
+# Windows
+
+| Name      | # Players | Online Multiplayer | OS  | Links                                                            |
+| --------- | :-------: | :----------------: | --- | ---------------------------------------------------------------- |
+| PICO PARK |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/) |
 
 # Links
 
