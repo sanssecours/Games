@@ -48,3 +48,4 @@ description: List of multiplayer games for macOS (Linux and Windows)
 # Links
 
 - [Apple Silicon Games](https://applesilicongames.com/games): List of games supported on newer Macs
+- [Co-Optimus](https://www.co-optimus.com/games.php): Searchable list of co-op games
