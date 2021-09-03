@@ -61,14 +61,15 @@ description: List of multiplayer games for macOS (Linux and Windows)
 
 # Windows
 
-| Name                    | # Players | Online Multiplayer | OS  | Links                                                                         |
-| ----------------------- | :-------: | :----------------: | --- | ----------------------------------------------------------------------------- |
-| Gauntlet Slayer Edition |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/) |
-| Gears 5                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                |
-| Worms Revolution        |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)        |
-| Among Us                |  5+ (15)  |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/945360/Among_Us/)                |
-| Dead by Daylight        |  5+ (5)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/381210/Dead_by_Daylight/)        |
-| PICO PARK               |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)              |
+| Name                    | # Players | Online Multiplayer | OS  | Links                                                                              |
+| ----------------------- | :-------: | :----------------: | --- | ---------------------------------------------------------------------------------- |
+| Gauntlet Slayer Edition |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)      |
+| Gears 5                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                     |
+| Trine 4                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/) |
+| Worms Revolution        |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)             |
+| Among Us                |  5+ (15)  |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/945360/Among_Us/)                     |
+| Dead by Daylight        |  5+ (5)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/381210/Dead_by_Daylight/)             |
+| PICO PARK               |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                   |
 
 # Links
 
