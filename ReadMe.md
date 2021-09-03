@@ -49,14 +49,15 @@ description: List of multiplayer games for macOS (Linux and Windows)
 
 ## 32 Bit
 
-| Name                        | # Players | Online Multiplayer | OS    | Links                                                                           |
-| --------------------------- | :-------: | :----------------: | ----- | ------------------------------------------------------------------------------- |
-| Borderlands: The Pre-Sequel |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/) |
-| Death Squared               |     4     |         ❌         | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)             |
-| Dungeon Defenders           |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)          |
-| Killing Floor               |  5+ (6)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/1250/Killing_Floor)                |
-| Knight Squad                |  5+ (8)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)              |
-| Serious Sam 3: BFE          |  5+ (16)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)          |
+| Name                        | # Players | Online Multiplayer | OS    | Links                                                                                |
+| --------------------------- | :-------: | :----------------: | ----- | ------------------------------------------------------------------------------------ |
+| Borderlands: The Pre-Sequel |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/)      |
+| Death Squared               |     4     |         ❌         | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                  |
+| Dungeon Defenders           |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)               |
+| Killing Floor               |  5+ (6)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/1250/Killing_Floor)                     |
+| Knight Squad                |  5+ (8)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
+| Serious Sam 3: BFE          |  5+ (16)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
+| Trine 3                     |     3     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
 
 # Windows
 
