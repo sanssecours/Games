@@ -44,3 +44,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | Unreal Tournament                |   5+ (32)   |         ✅         | 🍏🐧🪟         | • [OldUnreal](https://github.com/OldUnreal/UnrealTournamentPatches)                                                                                         |
 
 <a name="32bit">🍎</a>: Only 32 bit version available
+
+# Links
+
+- [Apple Silicon Games](https://applesilicongames.com/games): List of games supported on newer Macs
