@@ -65,6 +65,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | ----------------------- | :-------: | :----------------: | --- | ---------------------------------------------------------------------------------- |
 | Gauntlet Slayer Edition |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)      |
 | Gears 5                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                     |
+| Magicka                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                       |
 | Trine 4                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/) |
 | Worms Revolution        |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)             |
 | Among Us                |  5+ (15)  |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/945360/Among_Us/)                     |
