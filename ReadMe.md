@@ -52,6 +52,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 
 | Name      | # Players | Online Multiplayer | OS  | Links                                                            |
 | --------- | :-------: | :----------------: | --- | ---------------------------------------------------------------- |
+| Gears 5   |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)   |
 | PICO PARK |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/) |
 
 # Links
