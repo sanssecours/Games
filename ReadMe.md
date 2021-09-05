@@ -60,6 +60,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | Killing Floor               |  5+ (6)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/1250/Killing_Floor)                     |
 | Knight Squad                |  5+ (8)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
 | Serious Sam 3: BFE          |  5+ (16)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
+| Team Fortress 2             |  5+ (24)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/440/Team_Fortress_2/)                   |
 | Trine 3                     |     3     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
 
 # Windows
