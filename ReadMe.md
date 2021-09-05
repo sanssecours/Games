@@ -76,5 +76,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 
 # Links
 
+- [AppleGamingWiki](https://www.applegamingwiki.com): List of games supported on Apple platform
 - [Apple Silicon Games](https://applesilicongames.com/games): List of games supported on newer Macs
 - [Co-Optimus](https://www.co-optimus.com/games.php): Searchable list of co-op games
+- [PCGamingWiki](https://www.pcgamingwiki.com): Information about various PC games
