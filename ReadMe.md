@@ -76,6 +76,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | Dead by Daylight        |  5+ (5)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/381210/Dead_by_Daylight/)             |
 | Overwatch               |  5+ (12)  |         ✅         | 🪟   | • [Battle.net](https://us.shop.battle.net/en-us/product/overwatch)                 |
 | PICO PARK               |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                   |
+| Valorant                |  5+ (10)  |         ✅         | 🪟   | • [Homepage](https://playvalorant.com)                                             |
 
 # Links
 
