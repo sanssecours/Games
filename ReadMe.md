@@ -46,7 +46,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | StarCraft 2                      |   5+ (8)    |         ✅         | 🍏🪟   | • [Website](https://starcraft2.com)                                                                                                                         |
 | Teeworlds                        |   5+ (16)   |         ✅         | 🍏🐧🪟 | • [Website](https://www.teeworlds.com) <br/> • [Steam](https://store.steampowered.com/app/380840/Teeworlds/)                                                |
 | Terraria                         |   5+ (8)    |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/105600/Terraria/)                                                                                              |
-| Torchlight II                    |   5+ (6)    |         ✅         | 🍏🪟   | • [Steam](https://store.steampowered.com/app/200710/Torchlight_II/)                                                                                         |
+| Torchlight II                    |   5+ (6)    |         ✅         | 🍏🐧🪟 | • [GOG](https://www.gog.com/game/torchlight_ii) <br/> • [Steam](https://store.steampowered.com/app/200710/Torchlight_II/)                                   |
 | Unreal Tournament                |   5+ (32)   |         ✅         | 🍏🐧🪟 | • [OldUnreal](https://github.com/OldUnreal/UnrealTournamentPatches)                                                                                         |
 
 ## 32 Bit
