@@ -69,6 +69,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | Terraria                         |   5+ (8)    |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/105600/Terraria/)                                                                                                                         |
 | Torchlight II                    |   5+ (6)    |         ✅         | 🍏🐧🪟 | • [GOG](https://www.gog.com/game/torchlight_ii) <br/> • [Steam](https://store.steampowered.com/app/200710/Torchlight_II/)                                                              |
 | Unreal Tournament                |   5+ (32)   |         ✅         | 🍏🐧🪟 | • [OldUnreal](https://github.com/OldUnreal/UnrealTournamentPatches)                                                                                                                    |
+| Wingspan                         |   5+ (5)    |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/1054490/Wingspan/)                                                                                                                        |
 | Worms W.M.D                      |   5+ (6)    |         ✅         | 🍏🐧🪟 | • [GOG](https://www.gog.com/game/worms_wmd) <br/> • [Steam](https://store.steampowered.com/app/327030/Worms_WMD/)                                                                      |
 
 ## 32 Bit
