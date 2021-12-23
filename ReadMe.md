@@ -94,20 +94,21 @@ description: List of multiplayer games for macOS (Linux and Windows)
 
 # Windows
 
-| Name                    | # Players | Online Multiplayer | OS  | Links                                                                              |
-| ----------------------- | :-------: | :----------------: | --- | ---------------------------------------------------------------------------------- |
-| Gauntlet Slayer Edition |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)      |
-| Gears 5                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                     |
-| Magicka                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                       |
-| Trine 4                 |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/) |
-| Worms Revolution        |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)             |
-| Among Us                |  5+ (15)  |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/945360/Among_Us/)                     |
-| CryoFall                | 5+ (200)  |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/829590/CryoFall/)                     |
-| Dead by Daylight        |  5+ (5)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/381210/Dead_by_Daylight/)             |
-| The Forest              |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/242760/The_Forest/)                   |
-| Overwatch               |  5+ (12)  |         ✅         | 🪟   | • [Battle.net](https://us.shop.battle.net/en-us/product/overwatch)                 |
-| PICO PARK               |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                   |
-| Valorant                |  5+ (10)  |         ✅         | 🪟   | • [Homepage](https://playvalorant.com)                                             |
+| Name                         | # Players | Online Multiplayer | OS  | Links                                                                              |
+| ---------------------------- | :-------: | :----------------: | --- | ---------------------------------------------------------------------------------- |
+| Fall Guys: Ultimate Knockout |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/) |
+| Gauntlet Slayer Edition      |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)      |
+| Gears 5                      |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                     |
+| Magicka                      |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                       |
+| Trine 4                      |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/) |
+| Worms Revolution             |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)             |
+| Among Us                     |  5+ (15)  |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/945360/Among_Us/)                     |
+| CryoFall                     | 5+ (200)  |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/829590/CryoFall/)                     |
+| Dead by Daylight             |  5+ (5)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/381210/Dead_by_Daylight/)             |
+| The Forest                   |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/242760/The_Forest/)                   |
+| Overwatch                    |  5+ (12)  |         ✅         | 🪟   | • [Battle.net](https://us.shop.battle.net/en-us/product/overwatch)                 |
+| PICO PARK                    |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                   |
+| Valorant                     |  5+ (10)  |         ✅         | 🪟   | • [Homepage](https://playvalorant.com)                                             |
 
 # Links
 
