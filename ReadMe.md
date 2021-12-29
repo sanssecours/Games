@@ -4,9 +4,11 @@ author: René Schwaiger
 description: List of multiplayer games for macOS (Linux and Windows)
 ---
 
-# macOS
+# Multiplayer Games
 
-## 64 Bit
+## macOS
+
+### 64 Bit
 
 |                                                                                                                        | Name                             |  # Players  | Online Multiplayer | OS    | Links                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------- | :---------: | :----------------: | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +77,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 |                                                                                                                        | Wildermyth                       |   5+ (5)    |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/763890/Wildermyth/)                                                                                                                       |
 | <img src="Pictures/Worms W.M.D.png" alt="Worms W.M.D" style="zoom:20%;" />                                             | Worms W.M.D                      |   5+ (6)    |         ✅         | 🍏🐧🪟 | • [GOG](https://www.gog.com/game/worms_wmd) <br/> • [Steam](https://store.steampowered.com/app/327030/Worms_WMD/)                                                                      |
 
-## 32 Bit
+### 32 Bit
 
 | Name                        | # Players | Online Multiplayer | OS    | Links                                                                                                                                                              |
 | --------------------------- | :-------: | :----------------: | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -92,7 +94,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | Serious Sam 3: BFE          |  5+ (16)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)                                                                                             |
 | Team Fortress 2             |  5+ (24)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/440/Team_Fortress_2/)                                                                                                 |
 
-# Windows
+## Windows
 
 | Name                         | # Players | Online Multiplayer | OS  | Links                                                                              |
 | ---------------------------- | :-------: | :----------------: | --- | ---------------------------------------------------------------------------------- |
@@ -111,7 +113,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | PICO PARK                    |  5+ (8)   |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                   |
 | Valorant                     |  5+ (10)  |         ✅         | 🪟   | • [Homepage](https://playvalorant.com)                                             |
 
-# Links
+## Links
 
 - [AppleGamingWiki](https://www.applegamingwiki.com): List of games supported on Apple platform
 - [Apple Silicon Games](https://applesilicongames.com/games): List of games supported on newer Macs
