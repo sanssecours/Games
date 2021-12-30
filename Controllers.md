@@ -4,6 +4,7 @@
 
 |                                                                                        | Game              | Store | Controller                                                                                               | Tested     |
 | -------------------------------------------------------------------------------------- | ----------------- | ----- | -------------------------------------------------------------------------------------------------------- | ---------- |
+| <img src="Pictures/Akane.png" alt="Akane" style="zoom:25%;" />                         | Akane             | Steam | • DualSense ❌<sup>[BI](#bi)</sup> <br/> • Xbox ❌<sup>[BI](#bi)</sup>                                   | 2021.12.30 |
 | <img src="Pictures/Broforce.png" alt="Broforce" style="zoom:25%;" />                   | Broforce          | GOG   | • DualSense (Wireless) ✅ <br/> • Xbox ✅                                                                | 2021.12.29 |
 | <img src="Pictures/Broforce.png" alt="Broforce" style="zoom:25%;" />                   | Broforce          | Steam | • DualSense (Wireless) ✅<sup>[NRSD](#nrsd)</sup> <br/> • Xbox ❌<sup>[NR](#nr)</sup>                    | 2021.12.29 |
 | <img src="Pictures/HUNTDOWN.png" alt="HUNTDOWN" style="zoom:25%;" />                   | HUNTDOWN          | GOG   | • DualSense (Wireless) ✅<sup>[LG](#lg)</sup> <br/> • Xbox ❌<sup>[BI](#bi)</sup>                        | 2021.12.29 |
