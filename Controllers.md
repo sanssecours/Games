@@ -10,6 +10,7 @@
 | <img src="Pictures/BZFlag.png" alt="BZFlag" style="zoom:25%;" />                       | BZFlag            |       | • Xbox 🟡<sup>[CSSD](#cssd)</sup>                                                                                | 2021.12.30 |
 | <img src="Pictures/Castle Crashers.png" alt="Castle Crashers" style="zoom:25%;" />     | Castle Crashers   | Steam | • DualSense ❌<sup>[BI](#bi)</sup> <br/> • Xbox ❌<sup>[BI](#bi)</sup> (🟡<sup>[CSSD](#cssd)</sup>)              | 2021.12.30 |
 | <img src="Pictures/Celeste.png" alt="Celeste" style="zoom:25%;" />                     | Celeste           | Steam | • DualSense (Wireless) ✅<sup>[CSE](#cse)</sup> <br/> • Xbox ❌<sup>[NR](#nr)</sup> (🟡<sup>[CSSD](#cssd)</sup>) | 2021.12.29 |
+| <img src="Pictures/Descenders.png" alt="Descenders" style="zoom:25%;" />               | Descenders        | Steam | • DualSense (Wired) ✅<sup>[NRWL](#nrwl), [NRSE](#nrse)</sup> <br/> • Xbox ❌<sup>[NR](#nr)</sup>                | 2021.12.30 |
 | <img src="Pictures/HUNTDOWN.png" alt="HUNTDOWN" style="zoom:25%;" />                   | HUNTDOWN          | GOG   | • DualSense (Wireless) ✅<sup>[LG](#lg)</sup> <br/> • Xbox ❌<sup>[BI](#bi)</sup>                                | 2021.12.29 |
 | <img src="Pictures/HUNTDOWN.png" alt="HUNTDOWN" style="zoom:25%;" />                   | HUNTDOWN          | Steam | • DualSense (Wireless) ✅<sup>[MCSE](#mcse)</sup> <br/> • Xbox ❌<sup>[MCSE](#mcse), [BISD](#bisd)</sup>         | 2021.12.29 |
 | <img src="Pictures/Spiritfarer.png" alt="Spiritfarer" style="zoom:25%;" />             | Spiritfarer       | GOG   | • DualSense (Wireless) ✅<sup>[LG](#lg)</sup> <br/> • Xbox ❌<sup>[NR](#nr)                                      | 2021.12.29 |
@@ -20,6 +21,7 @@
 | <a name="nr">NR</a>     | Controller input **not recognized**                                         |
 | <a name="nrse">NRSE</a> | Controller input **not recognized** (Steam Input Enabled)                   |
 | <a name="nrsd">NRSD</a> | Controller input **not recognized** (Steam Input Disabled)                  |
+| <a name="nrwl">NRWL</a> | Controller input **not recognized** (Wireless)                              |
 | <a name="mcse">MCSE</a> | Controller show up as **multiple controllers** (Steam Input Enabled)        |
 | <a name="bi">BI</a>     | Controller **button** layout **incorrect**                                  |
 | <a name="bisd">BISD</a> | Controller **button** layout **incorrect** (Steam Input Disabled)           |
