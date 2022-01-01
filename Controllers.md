@@ -29,6 +29,7 @@
 | <img src="Pictures/Tricky Towers.png" alt="Tricky Towers" style="zoom:25%;" />                                   | Tricky Towers                  | Steam | • DualSense (Wired) ✅ <br/> • Xbox ❌<sup>[NR](#nr)</sup>                                                       | 2022.01.01 |
 | <img src="Pictures/Ultimate Chicken Horse.png" alt="Ultimate Chicken Horse" style="zoom:25%;" />                 | Ultimate Chicken Horse         | Steam | • DualSense (Wired) ✅ <br/> • Xbox ❌<sup>[NR](#nr)</sup>                                                       | 2022.01.01 |
 | <img src="Pictures/Unrailed!.png" alt="Unrailed!" style="zoom:25%;" />                                           | Unrailed!                      | Steam | • DualSense (Wireless) ✅<sup>[NRSE](#nrse)</sup> <br/> • Xbox ✅<sup>[NRSE](#nrse)</sup>                        | 2022.01.01 |
+| <img src="Pictures/Wingspan.png" alt="Wingspan" style="zoom:25%;" />                                             | Wingspan                       | Steam | • DualSense (Wireless) ✅ <br/> • Xbox ✅                                                                        | 2022.01.01 |
 
 | Abbreviation            | Description                                                                 |
 | ----------------------- | --------------------------------------------------------------------------- |
