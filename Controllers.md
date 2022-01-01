@@ -27,6 +27,7 @@
 | <img src="Pictures/Streets of Rage 4.png" alt="Streets of Rage 4" style="zoom:25%;" />                           | Streets of Rage 4              | Steam | • DualSense (Wireless) ✅<sup>[NRSE](#nrse)</sup> <br/> • Xbox ✅<sup>[NRSE](#nrse)</sup>                        | 2021.12.29 |
 | <img src="Pictures/TowerFall Ascension.png" alt="TowerFall Ascension" style="zoom:25%;" />                       | TowerFall Ascension            | Steam | • DualSense (Wireless) ✅<sup>[CSE](#cse)</sup> <br/> • Xbox ❌<sup>[NRSE](#nrse)                                | 2022.01.01 |
 | <img src="Pictures/Tricky Towers.png" alt="Tricky Towers" style="zoom:25%;" />                                   | Tricky Towers                  | Steam | • DualSense (Wired) ✅ <br/> • Xbox ❌<sup>[NR](#nr)</sup>                                                       | 2022.01.01 |
+| <img src="Pictures/Ultimate Chicken Horse.png" alt="Ultimate Chicken Horse" style="zoom:25%;" />                 | Ultimate Chicken Horse         | Steam | • DualSense (Wired) ✅ <br/> • Xbox ❌<sup>[NR](#nr)</sup>                                                       | 2022.01.01 |
 
 | Abbreviation            | Description                                                                 |
 | ----------------------- | --------------------------------------------------------------------------- |
