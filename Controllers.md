@@ -25,6 +25,7 @@
 | <img src="Pictures/Spiritfarer.png" alt="Spiritfarer" style="zoom:25%;" />                                       | Spiritfarer                    | GOG   | • DualSense (Wireless) ✅<sup>[LG](#lg)</sup> <br/> • Xbox ❌<sup>[NR](#nr)                                      | 2021.12.29 |
 | <img src="Pictures/Stick Fight - The Game.png" alt="Stick Fight: The Game" style="zoom:25%;" />                  | Stick Fight: The Game          | Steam | • DualSense (Wireless) ❌<sup>[MCSE](#mcse), [NRSD](nrsd)</sup> <br/> • Xbox ❌<sup>[NR](#nr)                    | 2022.01.01 |
 | <img src="Pictures/Streets of Rage 4.png" alt="Streets of Rage 4" style="zoom:25%;" />                           | Streets of Rage 4              | Steam | • DualSense (Wireless) ✅<sup>[NRSE](#nrse)</sup> <br/> • Xbox ✅<sup>[NRSE](#nrse)</sup>                        | 2021.12.29 |
+| <img src="Pictures/TowerFall Ascension.png" alt="TowerFall Ascension" style="zoom:25%;" />                       | TowerFall Ascension            | Steam | • DualSense (Wireless) ✅<sup>[CSE](#cse)</sup> <br/> • Xbox ❌<sup>[NRSE](#nrse)                                | 2022.01.01 |
 | <img src="Pictures/Tricky Towers.png" alt="Tricky Towers" style="zoom:25%;" />                                   | Tricky Towers                  | Steam | • DualSense (Wired) ✅ <br/> • Xbox ❌<sup>[NR](#nr)</sup>                                                       | 2022.01.01 |
 
 | Abbreviation            | Description                                                                 |
