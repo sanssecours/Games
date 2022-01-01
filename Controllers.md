@@ -23,6 +23,7 @@
 | <img src="Pictures/Regular Human Basketball.png" alt="Regular Human Basketball" style="zoom:25%;" />             | Regular Human Basketball       | Steam | • DualSense ❌<sup>[NR](#nr)</sup> <br/> • Xbox ❌<sup>[NR](#nr)</sup> (🟡<sup>[CSSD](#cssd)</sup>)              | 2022.01.01 |
 | <img src="Pictures/Shing!.png" alt="Shing!" style="zoom:25%;" />                                                 | Shing!                         | Steam | • DualSense (Wired) ✅<sup>[NRWL](#nrwl)</sup> <br/> • Xbox ✅                                                   | 2021.12.30 |
 | <img src="Pictures/Spiritfarer.png" alt="Spiritfarer" style="zoom:25%;" />                                       | Spiritfarer                    | GOG   | • DualSense (Wireless) ✅<sup>[LG](#lg)</sup> <br/> • Xbox ❌<sup>[NR](#nr)                                      | 2021.12.29 |
+| <img src="Pictures/Stick Fight - The Game.png" alt="Stick Fight: The Game" style="zoom:25%;" />                  | Stick Fight: The Game          | Steam | • DualSense (Wireless) ❌<sup>[MCSE](#mcse), [NRSD](nrsd)</sup> <br/> • Xbox ❌<sup>[NR](#nr)                    | 2022.01.01 |
 | <img src="Pictures/Streets of Rage 4.png" alt="Streets of Rage 4" style="zoom:25%;" />                           | Streets of Rage 4              | Steam | • DualSense (Wireless) ✅<sup>[NRSE](#nrse)</sup> <br/> • Xbox ✅<sup>[NRSE](#nrse)</sup>                        | 2021.12.29 |
 
 | Abbreviation            | Description                                                                 |
