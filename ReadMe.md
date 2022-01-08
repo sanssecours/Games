@@ -105,6 +105,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | Name                         | # Players | Online Multiplayer | OS  | Links                                                                              |
 | ---------------------------- | :-------: | :----------------: | --- | ---------------------------------------------------------------------------------- |
 | It Takes Two                 |     2     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                |
+| Apex Legends                 |     3     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1172470/apex_legends)                 |
 | Fall Guys: Ultimate Knockout |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/) |
 | Gauntlet Slayer Edition      |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)      |
 | Gears 5                      |     4     |         ✅         | 🪟   | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                     |
