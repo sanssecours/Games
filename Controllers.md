@@ -13,7 +13,7 @@
 | <img src="Pictures/Descenders.png" alt="Descenders" style="zoom:25%;" />                                         | Descenders                     | Steam | • DualSense (Wired) ✅<sup>[NRWL](#nrwl), [NRSE](#nrse)</sup> <br/> • Xbox ❌<sup>[NR](#nr)</sup>                     | 2021.12.30 |
 | <img src="Pictures/The Escapist 2.png" alt="The Escapist 2" style="zoom:25%;" />                                 | The Escapist 2                 | Steam | • DualSense (Wired) ✅<sup>[NRWL](#nrwl)</sup> <br/> • Xbox ❌<sup>[BI](#bi)</sup>                                    | 2021.12.30 |
 | <img src="Pictures/Full Metal Furies.png" alt="Full Metal Furies" style="zoom:25%;" />                           | Full Metal Furies              | Steam | • DualSense (Wireless) ✅<sup>[CSE](#cse)</sup> <br/> • Xbox ✅<sup>[NRSE](#nrse)</sup>                               | 2021.12.30 |
-| <img src="Pictures/Garfield Kart - Furious Racing.png" alt="Garfield Kart - Furious Racing" style="zoom:25%;" /> | Garfield Kart - Furious Racing | Steam | • DualSense ❌<sup>[NR](#nr)</sup> <br/> • Xbox ✅                                                                    | 2021.12.30 |
+| <img src="Pictures/Garfield Kart - Furious Racing.png" alt="Garfield Kart - Furious Racing" style="zoom:25%;" /> | Garfield Kart - Furious Racing | Steam | • DualSense ❌<sup>[NR](#nr)</sup> <br/> • Xbox ❌<sup>[NR](#nr)</sup> (🟡<sup>[CSSD](#cssd)[COSD](#cosd)</sup>)      | 2021.12.30 |
 | <img src="Pictures/Hollow Knight.png" alt="Hollow Knight" style="zoom:25%;" />                                   | Hollow Knight                  | GOG   | • DualSense (Wireless) ✅ <br/> • Xbox ❌<sup>[NR](#nr)</sup>                                                         | 2021.12.30 |
 | <img src="Pictures/HUNTDOWN.png" alt="HUNTDOWN" style="zoom:25%;" />                                             | HUNTDOWN                       | GOG   | • DualSense (Wireless) ✅<sup>[LG](#lg), [RWD](#rwd)</sup> <br/> • Xbox ❌<sup>[BI](#bi)</sup>                        | 2021.12.29 |
 | <img src="Pictures/HUNTDOWN.png" alt="HUNTDOWN" style="zoom:25%;" />                                             | HUNTDOWN                       | Steam | • DualSense (Wireless) ✅<sup>[MCSE](#mcse), [RWD](#rwd)</sup> <br/> • Xbox ❌<sup>[MCSE](#mcse), [BISD](#bisd)</sup> | 2021.12.29 |
@@ -34,16 +34,17 @@
 | <img src="Pictures/Wingspan.png" alt="Wingspan" style="zoom:25%;" />                                             | Wingspan                       | Steam | • DualSense (Wireless) ✅ <br/> • Xbox ✅                                                                             | 2022.01.01 |
 | <img src="Pictures/Worms W.M.D.png" alt="Worms W.M.D." style="zoom:25%;" />                                      | Worms W.M.D.                   | Steam | • DualSense (Wireless) ✅ <br/> • Xbox ✅                                                                             | 2022.01.01 |
 
-| Abbreviation            | Description                                                                 |
-| ----------------------- | --------------------------------------------------------------------------- |
-| <a name="nr">RWD</a>    | Rumble only works with wired connection                                     |
-| <a name="nr">NR</a>     | Controller input **not recognized**                                         |
-| <a name="nrse">NRSE</a> | Controller input **not recognized** (Steam Input Enabled)                   |
-| <a name="nrsd">NRSD</a> | Controller input **not recognized** (Steam Input Disabled)                  |
-| <a name="nrwl">NRWL</a> | Controller input **not recognized** (Wireless)                              |
-| <a name="mcse">MCSE</a> | Controller show up as **multiple controllers** (Steam Input Enabled)        |
-| <a name="bi">BI</a>     | Controller **button** layout **incorrect**                                  |
-| <a name="bisd">BISD</a> | Controller **button** layout **incorrect** (Steam Input Disabled)           |
-| <a name="lg">LG</a>     | Only works if **launched** through **GOG**                                  |
-| <a name="cssd">CSSD</a> | Works if buttons mapped with **controller software** (Steam Input Disabled) |
-| <a name="cse">CSE</a>   | **Crashes** (Steam Input Enabled)                                           |
+| Abbreviation            | Description                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| <a name="nr">RWD</a>    | Rumble only works with wired connection                                        |
+| <a name="nr">NR</a>     | Controller input **not recognized**                                            |
+| <a name="nrse">NRSE</a> | Controller input **not recognized** (Steam Input Enabled)                      |
+| <a name="nrsd">NRSD</a> | Controller input **not recognized** (Steam Input Disabled)                     |
+| <a name="nrwl">NRWL</a> | Controller input **not recognized** (Wireless)                                 |
+| <a name="mcse">MCSE</a> | Controller show up as **multiple controllers** (Steam Input Enabled)           |
+| <a name="bi">BI</a>     | Controller **button** layout **incorrect**                                     |
+| <a name="bisd">BISD</a> | Controller **button** layout **incorrect** (Steam Input Disabled)              |
+| <a name="lg">LG</a>     | Only works if **launched** through **GOG**                                     |
+| <a name="cssd">CSSD</a> | Works if buttons mapped with **controller software** (Steam Input Disabled)    |
+| <a name="cosd">COSD</a> | Works partially using integrated **controller options** (Steam Input Disabled) |
+| <a name="cse">CSE</a>   | **Crashes** (Steam Input Enabled)                                              |
