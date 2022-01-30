@@ -10,6 +10,8 @@ description: List of multiplayer games for macOS (Linux and Windows)
 
 ### 64 Bit
 
+#### Interested
+
 |                                                                                                                        | Name                             |  # Players  | Online Multiplayer | OS    | Links                                                                                                                                                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------- | :---------: | :----------------: | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="Pictures/Aegis Defenders.png" alt="Aegis Defenders" style="zoom:20%;" />                                     | Aegis Defenders                  |      2      |         ❌         | 🍏🪟   | • [GOG](https://www.gog.com/game/aegis_defenders) <br/> • [Steam](https://store.steampowered.com/app/371140/Aegis_Defenders/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-aegis-defenders-cd-key-compare-prices/)                                                              |
@@ -89,6 +91,12 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | <img src="Pictures/Wingspan.png" alt="Wingspan" style="zoom:20%;" />                                                   | Wingspan                         |   5+ (5)    |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/1054490/Wingspan/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-wingspan-cd-key-compare-prices/)                                                                                                                                   |
 |                                                                                                                        | Wildermyth                       |   5+ (5)    |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/763890/Wildermyth/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-wildermyth-cd-key-compare-prices/)                                                                                                                                |
 | <img src="Pictures/Worms W.M.D.png" alt="Worms W.M.D" style="zoom:20%;" />                                             | Worms W.M.D                      |   5+ (6)    |         ✅         | 🍏🐧🪟 | • [GOG](https://www.gog.com/game/worms_wmd) <br/> • [Steam](https://store.steampowered.com/app/327030/Worms_WMD/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-worms-wmd-cd-key-compare-prices/)                                                                                |
+
+#### Not Interested
+
+| Name                  | # Players | Online Multiplayer | OS  | Links                                                                                                                                                                      |
+| --------------------- | :-------: | :----------------: | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| We Were Here Together |     2     |         ✅         | 🍏🪟 | • [Steam](https://store.steampowered.com/app/865360/We_Were_Here_Together/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-we-were-here-together-cd-key-compare-prices/) |
 
 ### 32 Bit
 
