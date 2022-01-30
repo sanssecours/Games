@@ -98,6 +98,7 @@ description: List of multiplayer games for macOS (Linux and Windows)
 | --------------------- | :-------: | :----------------: | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | We Were Here Together |     2     |         ✅         | 🍏🪟   | • [Steam](https://store.steampowered.com/app/865360/We_Were_Here_Together/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-we-were-here-together-cd-key-compare-prices/)                           |
 | Escape Simulator      |  5+ (10)  |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/1435790/Escape_Simulator/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-escape-simulator-cd-key-compare-prices/)                                    |
+| Farming Simulator 22  |  5+ (16)  |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/1248130/Farming_Simulator_22/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-farming-simulator-22-cd-key-compare-prices/)                            |
 | Stellaris             |  5+ (32)  |         ✅         | 🍏🐧🪟 | • [GOG](https://www.gog.com/game/Stellaris) <br/> • [Steam](https://store.steampowered.com/app/281990/Stellaris/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-stellaris-cd-key-compare-prices/) |
 
 ### 32 Bit
