@@ -44,6 +44,7 @@
 | <a name="bli">BLI</a>     | Controller **button layout incorrect**                                             |
 | <a name="blisd">BLISD</a> | Controller **button layout incorrect** (Steam Input Disabled)                      |
 | <a name="cof">COF</a>     | Works **fully** using integrated **controller options**                            |
+| <a name="cop">COP</a>     | Works **partially** using integrated **controller options**                        |
 | <a name="copsd">COPSD</a> | Works **partially** using integrated **controller options** (Steam Input Disabled) |
 | <a name="cse">CSE</a>     | **Crashes** (Steam Input Enabled)                                                  |
 | <a name="cssd">CSSD</a>   | Works if buttons mapped with **controller software** (Steam Input Disabled)        |
