@@ -38,19 +38,19 @@
 | <img src="Pictures/Wingspan.png" alt="Wingspan" style="zoom:25%;" />                                             | Wingspan                       | Steam | —                          | ✅                                        | ✅                                                                   | 2022.01.01 |
 | <img src="Pictures/Worms W.M.D.png" alt="Worms W.M.D." style="zoom:25%;" />                                      | Worms W.M.D.                   | Steam | —                          | ✅                                        | ✅                                                                   | 2022.01.01 |
 
-| Abbreviation              | Description                                                                        |
-| ------------------------- | ---------------------------------------------------------------------------------- |
-| <a name="bise">BISE</a>   | Controller **button** work **incorrectly** (Steam Input Enabled)                   |
-| <a name="bli">BLI</a>     | Controller **button layout incorrect**                                             |
-| <a name="blisd">BLISD</a> | Controller **button layout incorrect** (Steam Input Disabled)                      |
-| <a name="cof">COF</a>     | Works **fully** using integrated **controller options**                            |
-| <a name="cop">COP</a>     | Works **partially** using integrated **controller options**                        |
-| <a name="copsd">COPSD</a> | Works **partially** using integrated **controller options** (Steam Input Disabled) |
-| <a name="cse">CSE</a>     | **Crashes** (Steam Input Enabled)                                                  |
-| <a name="cssd">CSSD</a>   | Works if buttons mapped with **controller software** (Steam Input Disabled)        |
-| <a name="lg">LG</a>       | Only works if **launched** through **GOG**                                         |
-| <a name="mcse">MCSE</a>   | Controller show up as **multiple controllers** (Steam Input Enabled)               |
-| <a name="nr">NR</a>       | Controller input **not recognized**                                                |
-| <a name="nrsd">NRSD</a>   | Controller input **not recognized** (Steam Input Disabled)                         |
-| <a name="nrse">NRSE</a>   | Controller input **not recognized** (Steam Input Enabled)                          |
-| <a name="nru">NRU</a>     | **No rumble** support                                                              |
+|                           | Abbreviation                                | Description                                                                      |
+| ------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- |
+| <a name="bise">BISE</a>   | Button Incorrect Steam Enabled              | Controller button work incorrectly (Steam Input Enabled)                         |
+| <a name="bli">BLI</a>     | Button Layout Incorrect                     | Controller button layout incorrect                                               |
+| <a name="blisd">BLISD</a> | Button Layout Incorrect Steam Disabled      | Controller button layout incorrect (Steam Input Disabled)                        |
+| <a name="cof">COF</a>     | Controller Options Full                     | Works (more or less completely) using integrated controller options              |
+| <a name="cop">COP</a>     | Controller Options Partially                | Works partially using integrated controller options                              |
+| <a name="copsd">COPSD</a> | Controller Options Partially Steam Disabled | Works partially using integrated controller options (Steam Input Disabled)       |
+| <a name="cse">CSE</a>     | Crashes Steam Enabled                       | Crashes (Steam Input Enabled)                                                    |
+| <a name="cssd">CSSD</a>   | Controller Software Steam Disabled          | Works if buttons mapped with external controller software (Steam Input Disabled) |
+| <a name="lg">LG</a>       | Launched GOG                                | Only works if launched through GOG                                               |
+| <a name="mcse">MCSE</a>   | Multiple Controllers Steam Enabled          | Controller show up as multiple controllers (Steam Input Enabled)                 |
+| <a name="nr">NR</a>       | Not Recognized                              | Controller input not recognized                                                  |
+| <a name="nrsd">NRSD</a>   | Not Recognized Steam Disabled               | Controller input not recognized (Steam Input Disabled)                           |
+| <a name="nrse">NRSE</a>   | Not Recognized Steam Enabled                | Controller input not recognized (Steam Input Enabled)                            |
+| <a name="nru">NRU</a>     | No Rumble                                   | No rumble support                                                                |
