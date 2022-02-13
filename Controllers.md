@@ -39,19 +39,19 @@
 
 | Abbreviation                | Description                                                                    |
 | --------------------------- | ------------------------------------------------------------------------------ |
-| <a name="rwd">RWD</a>       | Rumble only works with wired connection                                        |
-| <a name="nr">NR</a>         | Controller input **not recognized**                                            |
-| <a name="nrse">NRSE</a>     | Controller input **not recognized** (Steam Input Enabled)                      |
-| <a name="nrsd">NRSD</a>     | Controller input **not recognized** (Steam Input Disabled)                     |
-| <a name="nrwl">NRWL</a>     | Controller input **not recognized** (Wireless)                                 |
-| <a name="nrwlsd">NRWLSD</a> | Controller input **not recognized** (Wireless, Steam Input Disabled)           |
-| <a name="mcse">MCSE</a>     | Controller show up as **multiple controllers** (Steam Input Enabled)           |
+| <a name="bise">BLSD</a>     | Controller **button** work **incorrectly** (Steam Input Enabled)               |
 | <a name="bl">BL</a>         | Controller **button layout** incorrect                                         |
 | <a name="blsd">BLSD</a>     | Controller **button layout** incorrect (Steam Input Disabled)                  |
-| <a name="bise">BLSD</a>     | Controller **button** work **incorrectly** (Steam Input Enabled)               |
-| <a name="lg">LG</a>         | Only works if **launched** through **GOG**                                     |
-| <a name="cssd">CSSD</a>     | Works if buttons mapped with **controller software** (Steam Input Disabled)    |
 | <a name="copsd">COPSD</a>   | Works partially using integrated **controller options** (Steam Input Disabled) |
 | <a name="cse">CSE</a>       | **Crashes** (Steam Input Enabled)                                              |
-| <a name="wl">WL</a>         | Works in **Wireless** Mode                                                     |
+| <a name="cssd">CSSD</a>     | Works if buttons mapped with **controller software** (Steam Input Disabled)    |
+| <a name="lg">LG</a>         | Only works if **launched** through **GOG**                                     |
+| <a name="mcse">MCSE</a>     | Controller show up as **multiple controllers** (Steam Input Enabled)           |
+| <a name="nr">NR</a>         | Controller input **not recognized**                                            |
+| <a name="nrsd">NRSD</a>     | Controller input **not recognized** (Steam Input Disabled)                     |
+| <a name="nrse">NRSE</a>     | Controller input **not recognized** (Steam Input Enabled)                      |
+| <a name="nrwl">NRWL</a>     | Controller input **not recognized** (Wireless)                                 |
+| <a name="nrwlsd">NRWLSD</a> | Controller input **not recognized** (Wireless, Steam Input Disabled)           |
+| <a name="rwd">RWD</a>       | Rumble only works with wired connection                                        |
 | <a name="wd">WD</a>         | Works in **Wired** Mode                                                        |
+| <a name="wl">WL</a>         | Works in **Wireless** Mode                                                     |
