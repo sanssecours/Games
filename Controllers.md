@@ -39,7 +39,7 @@
 
 | Abbreviation                | Description                                                                    |
 | --------------------------- | ------------------------------------------------------------------------------ |
-| <a name="nr">RWD</a>        | Rumble only works with wired connection                                        |
+| <a name="rwd">RWD</a>       | Rumble only works with wired connection                                        |
 | <a name="nr">NR</a>         | Controller input **not recognized**                                            |
 | <a name="nrse">NRSE</a>     | Controller input **not recognized** (Steam Input Enabled)                      |
 | <a name="nrsd">NRSD</a>     | Controller input **not recognized** (Steam Input Disabled)                     |
