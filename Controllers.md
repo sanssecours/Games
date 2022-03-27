@@ -18,6 +18,7 @@
 | <img src="Pictures/Enter the Gungeon.png" alt="Enter the Gungeon" style="zoom:25%;" />                             | Enter the Gungeon               | GOG   | ✅                         | ✅<sup>[COF](#cof)</sup>                                | ❌<sup>[COP](#cop)</sup>                                                 | 2021.02.13 |
 | <img src="Pictures/Enter the Gungeon.png" alt="Enter the Gungeon" style="zoom:25%;" />                             | Enter the Gungeon               | Steam | ✅<sup>[BISE](#bise)</sup> | ❌<sup>[NRSD](#NRSD)</sup>                              | ❌<sup>[BISE](#bise), [NRSD](#nrsd)</sup>                                | 2021.01.31 |
 | <img src="Pictures/Full Metal Furies.png" alt="Full Metal Furies" style="zoom:25%;" />                             | Full Metal Furies               | Steam | —                          | ✅<sup>[CSE](#cse)</sup>                                | ✅<sup>[NRSE](#nrse)</sup>                                               | 2021.12.30 |
+| <img src="Pictures/Gang Beasts.png" alt="Gang Beasts" style="zoom:25%;" />                                         | Gang Beasts                     | Steam | ❌<sup>[BI](#bi)</sup>     | ❌<sup>[BI](#bi)</sup>                                  | ❌<sup>[NR](#nr)</sup> <br/> 🟡<sup>[CS](#cs)                            | 2022.03.27 |
 | <img src="Pictures/Garfield Kart - Furious Racing.png" alt="Garfield Kart - Furious Racing" style="zoom:25%;" />   | Garfield Kart - Furious Racing  | Steam | ❌<sup>[NR](#nr)</sup>     | ❌<sup>[NR](#nr)</sup>                                  | ❌<sup>[NR](#nr)</sup> <br/> 🟡<sup>[CSSD](#cssd), [COPSD](#copsd)</sup> | 2021.12.30 |
 | <img src="Pictures/Hollow Knight.png" alt="Hollow Knight" style="zoom:25%;" />                                     | Hollow Knight                   | GOG   | —                          | ✅                                                      | ❌<sup>[NR](#nr)</sup>                                                   | 2021.12.30 |
 | <img src="Pictures/HUNTDOWN.png" alt="HUNTDOWN" style="zoom:25%;" />                                               | HUNTDOWN                        | GOG   | ✅                         | ✅<sup>[LG](#lg), [NRU](#nru)</sup>                     | ❌<sup>[BLI](#bli)</sup>                                                 | 2021.12.29 |
@@ -45,7 +46,8 @@
 
 |                           | Abbreviation                                | Description                                                                      |
 | ------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- |
-| <a name="bics">BIcs</a>   | Button Incorrect Controller Software        | Controller buttons work incorrectly using external controller software           |
+| <a name="bics">BICS</a>   | Button Incorrect Controller Software        | Controller buttons work incorrectly using external controller software           |
+| <a name="bise">BI</a>     | Button Incorrect                            | Controller buttons work incorrectly                                              |
 | <a name="bise">BISE</a>   | Button Incorrect Steam Enabled              | Controller buttons work incorrectly (Steam Input Enabled)                        |
 | <a name="bli">BLI</a>     | Button Layout Incorrect                     | Controller button layout incorrect                                               |
 | <a name="blisd">BLISD</a> | Button Layout Incorrect Steam Disabled      | Controller button layout incorrect (Steam Input Disabled)                        |
@@ -53,7 +55,8 @@
 | <a name="cop">COP</a>     | Controller Options Partially                | Works partially using integrated controller options                              |
 | <a name="copsd">COPSD</a> | Controller Options Partially Steam Disabled | Works partially using integrated controller options (Steam Input Disabled)       |
 | <a name="cse">CSE</a>     | Crashes Steam Enabled                       | Crashes (Steam Input Enabled)                                                    |
-| <a name="cs">CSSD</a>     | Controller Software                         | Works if buttons mapped with external controller software                        |
+| <a name="cs">CS</a>       | Controller Software                         | Works if buttons mapped with Steam controller options                            |
+| <a name="cs">CSSD</a>     | Controller Software Steam Disabled          | Works if buttons mapped with external controller software                        |
 | <a name="cssd">CSSD</a>   | Controller Software Steam Disabled          | Works if buttons mapped with external controller software (Steam Input Disabled) |
 | <a name="lg">LG</a>       | Launched GOG                                | Only works if launched through GOG                                               |
 | <a name="mcse">MCSE</a>   | Multiple Controllers Steam Enabled          | Controller show up as multiple controllers (Steam Input Enabled)                 |
