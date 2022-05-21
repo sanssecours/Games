@@ -1,19 +1,36 @@
-# Generate all documents
-all: epub html pdf
+# -- Variables -----------------------------------------------------------------
+
+OUTPUT_DIRECTORY := Bookdown
+INDEX_FILE := ReadMe.md
+OUTPUT_NAME := Games
+
+PDF_FILE := $(OUTPUT_DIRECTORY)/$(OUTPUT_NAME).pdf
+EPUB_FILE := $(OUTPUT_DIRECTORY)/$(OUTPUT_NAME).epub
+HTML_FILE := $(OUTPUT_DIRECTORY)/$(OUTPUT_NAME).html
+
+# -- Rules ---------------------------------------------------------------------
+
+# Always regenerate output files
+.PHONY: clean $(EPUB_FILE) $(HTML_FILE) $(PDF_FILE)
+
+all: $(EPUB_FILE) $(HTML_FILE) $(PDF_FILE)
+
+epub: $(EPUB_FILE)
+html: $(HTML_FILE)
+pdf: $(PDF_FILE)
 
 # Generate EPUB document
-epub:
-	Rscript -e "bookdown::render_book('ReadMe.md', 'bookdown::epub_book')"
+$(EPUB_FILE):
+	Rscript -e "bookdown::render_book('$(INDEX_FILE)', 'bookdown::epub_book')"
 
 # Generate (GitBook) HTML document
-html:
-	Rscript -e "bookdown::render_book('ReadMe.md', 'bookdown::gitbook')"
-	Rscript -e "file.rename('Bookdown/Games.html', 'Bookdown/index.html')"
+$(HTML_FILE):
+	Rscript -e "bookdown::render_book('$(INDEX_FILE)', 'bookdown::gitbook')"
+	Rscript -e "file.rename('$(HTML_FILE)', '$(OUTPUT_DIRECTORY)/index.html')"
 
 # Generate PDF
-pdf:
-	Rscript -e "bookdown::render_book('ReadMe.md', 'bookdown::pdf_book')"
+$(PDF_FILE):
+	Rscript -e "bookdown::render_book('$(INDEX_FILE)', 'bookdown::pdf_book')"
 
-# Remove bookdown output
 clean:
-	Rscript -e "unlink('Bookdown', recursive = TRUE)"
+	Rscript -e "unlink('$(OUTPUT_DIRECTORY)', recursive = TRUE)"
