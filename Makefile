@@ -25,7 +25,7 @@ $(EPUB_FILE):
 
 # Generate (GitBook) HTML document
 $(HTML_FILE):
-	Rscript -e "bookdown::render_book('$(INDEX_FILE)', 'bookdown::gitbook')"
+	Rscript -e "bookdown::render_book('$(INDEX_FILE)', 'bookdown::html_book')"
 	Rscript -e "file.rename('$(HTML_FILE)', '$(OUTPUT_DIRECTORY)/index.html')"
 
 # Generate PDF

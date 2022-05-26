@@ -1,8 +1,6 @@
-bookdown::gitbook:
+bookdown::html_book:
   split_by: none
-  config:
-      download: ["pdf", "epub"]
-      sharing: null
+  theme: united
 bookdown::epub_book: default
 bookdown::pdf_book:
   latex_engine: xelatex
