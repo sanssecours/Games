@@ -1,7 +1,7 @@
 # -- Variables -----------------------------------------------------------------
 
 OUTPUT_DIRECTORY := Bookdown
-INDEX_FILE := ReadMe.md
+INDEX_FILE := Multiplayer.md
 OUTPUT_NAME := Games
 
 PDF_FILE := $(OUTPUT_DIRECTORY)/$(OUTPUT_NAME).pdf
