@@ -15,7 +15,7 @@
 | <img src="Pictures/Human - Fall Flat.png" alt="Human: Fall Flat" style="zoom:20%;" />                              | Human: Fall Flat                | • DualSense ([Steam Input Disabled](steam-input-disabled), [Wired](#wired))                                                                                 | 2022.11.10 |
 | <img src="Pictures/Lovers in a Dangerous Spacetime.png" alt="Lovers in a Dangerous Spacetime" style="zoom:20%;" /> | Lovers in a Dangerous Spacetime | • 8BitDo Pro 2 ([Steam Configuration](#steam-configuration), [Xbox Mode](#xbox-mode))                                                                       | 2022.11.10 |
 | <img src="Pictures/Spacelines from the Far Out.webp" alt="Spacelines from the Far Out" style="zoom:20%;" />        | Spacelines from the Far Out     | • Dual Sense                                                                                                                                                | 2022.09.24 |
-| <img src="Pictures/TowerFall Ascension.png" alt="TowerFall Ascension" style="zoom:20%;" />                         | TowerFall Ascension             | • DualSense ([Steam Input Disabled](steam-input-disabled))                                                                                                  | 2022.11.20 |
+| <img src="Pictures/TowerFall Ascension.png" alt="TowerFall Ascension" style="zoom:20%;" />                         | TowerFall Ascension             | • 8BitDo Pro 2 ([Steam Input Disabled](steam-input-disabled), [Xbox Mode](#xbox-mode))<br/>• DualSense ([Steam Input Disabled](steam-input-disabled))       | 2022.11.26 |
 
 |                                                         | Description                                                |
 | ------------------------------------------------------- | ---------------------------------------------------------- |
@@ -23,4 +23,6 @@
 | <a name="ps-4-analogue">PS 4 Analogue</a>               | “PS4 Analogue” mode chosen in pre-game dialog              |
 | <a name="steam-configuration">Steam Configuration</a>   | Use Steam controller configuration to map buttons          |
 | <a name="steam-input-disabled">Steam Input Disabled</a> | Steam Input Disabled via controller configuration for game |
+| <a name="switch-mode">Xbox Mode</a>                     | Switch set to Switch mode                                  |
 | <a name="wired">Wired</a>                               | Connected via USB-C cable                                  |
+| <a name="xbox-mode">Xbox Mode</a>                       | Switch set to Xbox mode                                    |
