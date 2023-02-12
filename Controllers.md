@@ -22,6 +22,7 @@
 | <img src="Pictures/Stick Fight - The Game.webp" alt="Stick Fight: The Game" style="zoom:20%;" />                    | Stick Fight: The Game           | • DualSense ([Wired](#wired))                                                                                                                               | 2022.12.09 |
 | <img src="Pictures/TowerFall Ascension.webp" alt="TowerFall Ascension" style="zoom:20%;" />                         | TowerFall Ascension             | • 8BitDo Pro 2 ([Steam Input Disabled](steam-input-disabled), [Xbox Mode](#xbox-mode))<br/>• DualSense ([Steam Input Disabled](steam-input-disabled))       | 2022.11.26 |
 | <img src="Pictures/Unrailed!.webp" alt="Unrailed!" style="zoom:20%;" />                                             | Unrailed!                       | • DualSense ([Steam Input Disabled](steam-input-disabled))                                                                                                  | 2022.12.08 |
+| <img src="Pictures/Wrestledunk Sports.webp" alt="Wrestledunk Sports" style="zoom:20%;" />                           | Wrestledunk Sports              | • DualSense                                                                                                                                                 | 2023.02.12 |
 
 |                                                         | Description                                                |
 | ------------------------------------------------------- | ---------------------------------------------------------- |
