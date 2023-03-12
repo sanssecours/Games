@@ -36,3 +36,7 @@
 | <a name="switch-mode">Xbox Mode</a>                     | Switch set to Switch mode                                  |
 | <a name="wired">Wired</a>                               | Connected via USB-C cable                                  |
 | <a name="xbox-mode">Xbox Mode</a>                       | Switch set to Xbox mode                                    |
+
+### Links
+
+- [Xbox Controller Workaround](https://steamcommunity.com/discussions/forum/2/3198119849656535195)
