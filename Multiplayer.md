@@ -1,10 +1,8 @@
-# Multiplayer Games
+# macOS
 
-## macOS
+## 64 Bit
 
-### 64 Bit
-
-#### Interested
+### Interested
 
 |                                                                                                                                               | Name                                         |                                                   # Players                                                   | Genre                                                                         | Type                         |        Online Multiplayer         | OS     | Links                                                                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------- | :--------------------------- | :-------------------------------: | ------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -143,13 +141,13 @@
 | <img src="Pictures/Worms W.M.D.webp" alt="Worms W.M.D" style="zoom:20%;" />                                                                   | Worms W.M.D                                  |                                                    5+ (6)                                                     | • Turn-Based                                                                  | • Versus                     |                ✅                 | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/327030/Worms_WMD/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-worms-wmd-cd-key-compare-prices/)                                                                                                                                                        |
 | <img src="Pictures/Wrestledunk Sports.webp" alt="Wrestledunk Sports" style="zoom:20%;" />                                                     | Wrestledunk Sports                           |                                                    5+ (8)                                                     | • Party <br/> • Sports                                                        | • Cooperative <br/> • Versus |                ✅                 | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/1301520/Wrestledunk_Sports/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-wrestledunk-sports-cd-key-compare-prices/)                                                                                                                                     |
 
-#### Broken
+### Broken
 
 |                                                                                               | Name                 | # Players | Genre                                         | Type          | Online Multiplayer | OS     | Links                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------- | -------------------- | :-------: | :-------------------------------------------- | :------------ | :----------------: | ------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="Pictures/ARK Survival Evolved.webp" alt="ARK Survival Evolved" style="zoom:20%;" /> | ARK Survival Evolved |     4     | • First Person Shooter (FPS) <br/> • Survival | • Cooperative |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/) <br/> • [Patch for Apple Silicon Macs](https://github.com/Coder-256/UnrealGPUPatcher) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-ark-survival-evolved-cd-key-compare-prices/) |
 
-#### Not Interested
+### Not Interested
 
 | Name                  | # Players | Online Multiplayer | OS     | Links                                                                                                                                                                      |
 | --------------------- | :-------: | :----------------: | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -161,7 +159,7 @@
 | Stellaris             |  5+ (32)  |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/281990/Stellaris/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-stellaris-cd-key-compare-prices/)                         |
 | Wildermyth            |  5+ (5)   |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/763890/Wildermyth/) <br/> • [🔑](https://www.allkeyshop.com/blog/buy-wildermyth-cd-key-compare-prices/)                       |
 
-### 32 Bit
+## 32 Bit
 
 | Name                        | # Players | Online Multiplayer | OS     | Links                                                                                |
 | --------------------------- | :-------: | :----------------: | ------ | ------------------------------------------------------------------------------------ |
@@ -178,7 +176,7 @@
 | Serious Sam 3: BFE          |  5+ (16)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
 | Team Fortress 2             |  5+ (24)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/440/Team_Fortress_2/)                   |
 
-## Windows
+# Windows
 
 | Name                           | # Players | Online Multiplayer | OS  | Links                                                                               |
 | ------------------------------ | :-------: | :----------------: | --- | ----------------------------------------------------------------------------------- |
@@ -200,7 +198,7 @@
 | PICO PARK                      |  5+ (8)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                    |
 | Valorant                       |  5+ (10)  |         ✅         | 🪟  | • [Homepage](https://playvalorant.com)                                              |
 
-## Links
+# Links
 
 - [AppleGamingWiki](https://www.applegamingwiki.com): List of games supported on Apple platform
 - [Apple Silicon Games](https://applesilicongames.com/games): List of games supported on newer Macs
