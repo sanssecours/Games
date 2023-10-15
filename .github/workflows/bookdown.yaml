@@ -26,7 +26,7 @@ jobs:
         run: Rscript -e "install.packages(c('rmarkdown', 'bookdown'))"
 
       - name: Build book
-        run: make
+        run: make all
 
       - uses: actions/upload-artifact@v2
         with:
