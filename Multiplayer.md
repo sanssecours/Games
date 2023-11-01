@@ -190,6 +190,7 @@
 | Name         | # Players | Online Multiplayer | OS  | Links                                                               |
 | ------------ | :-------: | :----------------: | --- | ------------------------------------------------------------------- |
 | It Takes Two |     2     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/) |
+| PlateUp!     |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)      |
 | PICO PARK    |  5+ (8)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)    |
 
 ## Other
