@@ -185,9 +185,17 @@
 
 # Windows
 
+## Parsec
+
+| Name         | # Players | Online Multiplayer | OS  | Links                                                               |
+| ------------ | :-------: | :----------------: | --- | ------------------------------------------------------------------- |
+| It Takes Two |     2     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/) |
+| PICO PARK    |  5+ (8)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)    |
+
+## Other
+
 | Name                           | # Players | Online Multiplayer | OS  | Links                                                                               |
 | ------------------------------ | :-------: | :----------------: | --- | ----------------------------------------------------------------------------------- |
-| It Takes Two                   |     2     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                 |
 | Apex Legends                   |     3     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1172470/apex_legends)                  |
 | Fall Guys: Ultimate Knockout   |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)  |
 | Gauntlet Slayer Edition        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)       |
@@ -202,7 +210,6 @@
 | Forza Horizon 5                |  5+ (12)  |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)              |
 | Mysterium: A Psychic Clue Game |  5+ (7)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/556180/Mysterium_A_Psychic_Clue_Game/) |
 | Overwatch                      |  5+ (12)  |         ✅         | 🪟  | • [Battle.net](https://us.shop.battle.net/en-us/product/overwatch)                  |
-| PICO PARK                      |  5+ (8)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                    |
 | Valorant                       |  5+ (10)  |         ✅         | 🪟  | • [Homepage](https://playvalorant.com)                                              |
 
 # Links
