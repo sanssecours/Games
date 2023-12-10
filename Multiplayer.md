@@ -210,7 +210,6 @@
 | Apex Legends                   |     3     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1172470/apex_legends)                  |
 | Fall Guys: Ultimate Knockout   |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)  |
 | Among Us                       |  5+ (15)  |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/945360/Among_Us/)                      |
-| CryoFall                       | 5+ (200)  |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/829590/CryoFall/)                      |
 | Dead by Daylight               |  5+ (5)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/381210/Dead_by_Daylight/)              |
 | The Forest                     |  5+ (8)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/242760/The_Forest/)                    |
 | Forza Horizon 5                |  5+ (12)  |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)              |
