@@ -185,17 +185,18 @@
 
 ## Parsec
 
-| Name               | # Players | OS     | Links                                                                                |
-| ------------------ | :-------: | ------ | ------------------------------------------------------------------------------------ |
-| It Takes Two       |     2     | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                  |
-| Trine 3            |     3     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
-| Death Squared      |     4     | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                  |
-| Magicka 2          |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                      |
-| PlateUp!           |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                       |
-| Serious Sam 3: BFE |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
-| Vagante            |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                        |
-| Knight Squad       |  5+ (8)   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
-| PICO PARK          |  5+ (8)   | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                     |
+| Name                    | # Players | OS     | Links                                                                                |
+| ----------------------- | :-------: | ------ | ------------------------------------------------------------------------------------ |
+| It Takes Two            |     2     | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                  |
+| Trine 3                 |     3     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
+| Death Squared           |     4     | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                  |
+| Gauntlet Slayer Edition |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)        |
+| Magicka 2               |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                      |
+| PlateUp!                |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                       |
+| Serious Sam 3: BFE      |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
+| Vagante                 |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                        |
+| Knight Squad            |  5+ (8)   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
+| PICO PARK               |  5+ (8)   | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                     |
 
 ## No Local Multiplayer
 
@@ -204,7 +205,6 @@
 | Apex Legends                   |     3     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1172470/apex_legends)                  |
 | Dungeon Defenders              |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)              |
 | Fall Guys: Ultimate Knockout   |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)  |
-| Gauntlet Slayer Edition        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)       |
 | Gears 5                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                      |
 | Magicka                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                        |
 | Trine 4                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/)  |
