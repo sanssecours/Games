@@ -176,7 +176,6 @@
 | Name                        | # Players | Online Multiplayer | OS     | Links                                                                           |
 | --------------------------- | :-------: | :----------------: | ------ | ------------------------------------------------------------------------------- |
 | Borderlands: The Pre-Sequel |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/) |
-| Dungeon Defenders           |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)          |
 | Left 4 Dead                 |     4     |         ✅         | 🍎🪟   | • [Steam](https://store.steampowered.com/app/500/Left_4_Dead/)                  |
 | Magicka 2                   |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                 |
 | Vagante                     |     4     |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                   |
@@ -198,11 +197,12 @@
 | Knight Squad  |  5+ (8)   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
 | PICO PARK     |  5+ (8)   | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                     |
 
-## Other
+## No Local Multiplayer
 
 | Name                           | # Players | Online Multiplayer | OS  | Links                                                                               |
 | ------------------------------ | :-------: | :----------------: | --- | ----------------------------------------------------------------------------------- |
 | Apex Legends                   |     3     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1172470/apex_legends)                  |
+| Dungeon Defenders              |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)              |
 | Fall Guys: Ultimate Knockout   |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)  |
 | Gauntlet Slayer Edition        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)       |
 | Gears 5                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                      |
