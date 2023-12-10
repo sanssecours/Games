@@ -214,7 +214,7 @@
 | The Forest                     |  5+ (8)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/242760/The_Forest/)                    |
 | Forza Horizon 5                |  5+ (12)  |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)              |
 | Mysterium: A Psychic Clue Game |  5+ (7)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/556180/Mysterium_A_Psychic_Clue_Game/) |
-| Overwatch                      |  5+ (12)  |         ✅         | 🪟  | • [Battle.net](https://us.shop.battle.net/en-us/product/overwatch)                  |
+| Overwatch 2                    |  5+ (12)  |         ✅         | 🪟  | • [Battle.net](https://us.shop.battle.net/en-us/product/overwatch)                  |
 | Valorant                       |  5+ (10)  |         ✅         | 🪟  | • [Homepage](https://playvalorant.com)                                              |
 
 # Links
