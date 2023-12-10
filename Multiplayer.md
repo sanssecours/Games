@@ -177,7 +177,6 @@
 | --------------------------- | :-------: | :----------------: | ------ | ------------------------------------------------------------------------------- |
 | Borderlands: The Pre-Sequel |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/) |
 | Left 4 Dead                 |     4     |         ✅         | 🍎🪟   | • [Steam](https://store.steampowered.com/app/500/Left_4_Dead/)                  |
-| Magicka 2                   |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                 |
 | Vagante                     |     4     |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                   |
 | Age of Wonders III          |  5+ (8)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/226840/Age_of_Wonders_III/)        |
 | Killing Floor               |  5+ (6)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/1250/Killing_Floor)                |
@@ -193,6 +192,7 @@
 | It Takes Two  |     2     | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                  |
 | Trine 3       |     3     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
 | Death Squared |     4     | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                  |
+| Magicka 2     |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                      |
 | PlateUp!      |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                       |
 | Knight Squad  |  5+ (8)   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
 | PICO PARK     |  5+ (8)   | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                     |
