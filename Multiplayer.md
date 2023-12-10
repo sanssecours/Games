@@ -193,6 +193,7 @@
 | Death Squared           |     4     | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                  |
 | Dungeon Defenders       |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)               |
 | Gauntlet Slayer Edition |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)        |
+| Magicka                 |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                         |
 | Magicka 2               |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                      |
 | PlateUp!                |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                       |
 | Serious Sam 3: BFE      |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
@@ -206,7 +207,6 @@
 | ------------------------------ | :-------: | :----------------: | --- | ----------------------------------------------------------------------------------- |
 | Apex Legends                   |     3     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1172470/apex_legends)                  |
 | Fall Guys: Ultimate Knockout   |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)  |
-| Magicka                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                        |
 | Trine 4                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/)  |
 | Worms Revolution               |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)              |
 | Among Us                       |  5+ (15)  |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/945360/Among_Us/)                      |
