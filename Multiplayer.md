@@ -176,7 +176,6 @@
 | Name                        | # Players | Online Multiplayer | OS     | Links                                                                           |
 | --------------------------- | :-------: | :----------------: | ------ | ------------------------------------------------------------------------------- |
 | Borderlands: The Pre-Sequel |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/) |
-| Death Squared               |     4     |         ❌         | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)             |
 | Dungeon Defenders           |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)          |
 | Left 4 Dead                 |     4     |         ✅         | 🍎🪟   | • [Steam](https://store.steampowered.com/app/500/Left_4_Dead/)                  |
 | Magicka 2                   |     4     |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                 |
@@ -190,13 +189,14 @@
 
 ## Parsec
 
-| Name         | # Players | OS     | Links                                                                                |
-| ------------ | :-------: | ------ | ------------------------------------------------------------------------------------ |
-| It Takes Two |     2     | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                  |
-| Trine 3      |     3     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
-| PlateUp!     |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                       |
-| Knight Squad |  5+ (8)   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
-| PICO PARK    |  5+ (8)   | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                     |
+| Name          | # Players | OS     | Links                                                                                |
+| ------------- | :-------: | ------ | ------------------------------------------------------------------------------------ |
+| It Takes Two  |     2     | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                  |
+| Trine 3       |     3     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
+| Death Squared |     4     | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                  |
+| PlateUp!      |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                       |
+| Knight Squad  |  5+ (8)   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
+| PICO PARK     |  5+ (8)   | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                     |
 
 ## Other
 
