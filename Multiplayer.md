@@ -188,6 +188,7 @@
 | Name                    | # Players | OS     | Links                                                                                |
 | ----------------------- | :-------: | ------ | ------------------------------------------------------------------------------------ |
 | It Takes Two            |     2     | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                  |
+| Gears 5                 |     3     | 🪟     | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                       |
 | Trine 3                 |     3     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
 | Death Squared           |     4     | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                  |
 | Dungeon Defenders       |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)               |
@@ -205,7 +206,6 @@
 | ------------------------------ | :-------: | :----------------: | --- | ----------------------------------------------------------------------------------- |
 | Apex Legends                   |     3     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1172470/apex_legends)                  |
 | Fall Guys: Ultimate Knockout   |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097150/Fall_Guys_Ultimate_Knockout/)  |
-| Gears 5                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                      |
 | Magicka                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                        |
 | Trine 4                        |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/)  |
 | Worms Revolution               |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)              |
