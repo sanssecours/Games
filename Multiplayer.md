@@ -184,7 +184,6 @@
 | Vagante                     |     4     |         ✅         | 🍏🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                        |
 | Age of Wonders III          |  5+ (8)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/226840/Age_of_Wonders_III/)             |
 | Killing Floor               |  5+ (6)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/1250/Killing_Floor)                     |
-| Knight Squad                |  5+ (8)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
 | Serious Sam 3: BFE          |  5+ (16)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
 | Team Fortress 2             |  5+ (24)  |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/440/Team_Fortress_2/)                   |
 
@@ -192,11 +191,12 @@
 
 ## Parsec
 
-| Name         | # Players | Online Multiplayer | OS  | Links                                                               |
-| ------------ | :-------: | :----------------: | --- | ------------------------------------------------------------------- |
-| It Takes Two |     2     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/) |
-| PlateUp!     |     4     |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)      |
-| PICO PARK    |  5+ (8)   |         ✅         | 🪟  | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)    |
+| Name         | # Players | Online Multiplayer | OS     | Links                                                               |
+| ------------ | :-------: | :----------------: | ------ | ------------------------------------------------------------------- |
+| It Takes Two |     2     |         ✅         | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/) |
+| PlateUp!     |     4     |         ✅         | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)      |
+| Knight Squad |  5+ (8)   |         ✅         | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)  |
+| PICO PARK    |  5+ (8)   |         ✅         | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)    |
 
 ## Other
 
