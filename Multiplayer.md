@@ -197,6 +197,7 @@
 | Gauntlet Slayer Edition |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)        |
 | Magicka                 |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                         |
 | Magicka 2               |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                      |
+| Move or Die             |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323850/Move_or_Die/)                    |
 | PlateUp!                |     4     | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                       |
 | Serious Sam 3: BFE      |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
 | Vagante                 |     4     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                        |
