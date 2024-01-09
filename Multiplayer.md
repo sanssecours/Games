@@ -189,6 +189,7 @@
 | Name                    | # Players | Genre                          | Type                         | OS     | Links                                                                                |
 | ----------------------- | :-------: | :----------------------------- | :--------------------------- | ------ | ------------------------------------------------------------------------------------ |
 | It Takes Two            |     2     | • 3D Platformer                | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                  |
+| Shift Happens           |     2     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/359840/Shift_Happens/)                  |
 | Worms Revolution        |     2     | • Turn-Based                   | • Versus                     | 🪟     | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)               |
 | Gears 5                 |     3     | • First Person Shooter (FPS)   | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                       |
 | Trine 3                 |     3     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
