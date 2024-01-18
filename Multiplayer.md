@@ -186,25 +186,28 @@
 
 ## Parsec
 
-| Name                    | # Players | Genre                          | Type                         | OS     | Links                                                                                |
-| ----------------------- | :-------: | :----------------------------- | :--------------------------- | ------ | ------------------------------------------------------------------------------------ |
-| It Takes Two            |     2     | • 3D Platformer                | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                  |
-| Shift Happens           |     2     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/359840/Shift_Happens/)                  |
-| Worms Revolution        |     2     | • Turn-Based                   | • Versus                     | 🪟     | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)               |
-| Gears 5                 |     3     | • First Person Shooter (FPS)   | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                       |
-| Trine 3                 |     3     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/) |
-| Trine 4                 |     4     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/)   |
-| Death Squared           |     4     | • Puzzle                       | • Cooperative                | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                  |
-| Dungeon Defenders       |     4     | • Tower Defense                | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)               |
-| Gauntlet Slayer Edition |     4     | • Action <br/> Hack And Slash  | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)        |
-| Magicka                 |     4     | • Adventure                    | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                         |
-| Magicka 2               |     4     | • Adventure                    | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                      |
-| Move or Die             |     4     | • Party                        | • Versus                     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323850/Move_or_Die/)                    |
-| PlateUp!                |     4     | • Cooking <br/> • Party        | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                       |
-| Serious Sam 3: BFE      |     4     | • First Person Shooter (FPS)   | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)               |
-| Vagante                 |     4     | • Action <br/> • Roguelike     | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                        |
-| Knight Squad            |  5+ (8)   | • Action <br/> • Top-Down      | • Cooperative <br/> • Versus | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                   |
-| PICO PARK               |  5+ (8)   | • 2D Platformer <br/> Puzzle   | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                     |
+| Name                                            | # Players | Genre                          | Type                         | OS     | Links                                                                                               |
+| ----------------------------------------------- | :-------: | :----------------------------- | :--------------------------- | ------ | --------------------------------------------------------------------------------------------------- |
+| It Takes Two                                    |     2     | • 3D Platformer                | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1426210/It_Takes_Two/)                                 |
+| Gelly Break Deluxe                              |     2     | • 3D Platformer                | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1690060/Gelly_Break_Deluxe/)                           |
+| Shift Happens                                   |     2     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/359840/Shift_Happens/)                                 |
+| Worms Revolution                                |     2     | • Turn-Based                   | • Versus                     | 🪟     | • [Steam](https://store.steampowered.com/app/200170/Worms_Revolution/)                              |
+| Gears 5                                         |     3     | • First Person Shooter (FPS)   | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1097840/Gears_5/)                                      |
+| Trine 3                                         |     3     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/)                |
+| Death Squared                                   |     4     | • Puzzle                       | • Cooperative                | 🍎🪟   | • [Steam](https://store.steampowered.com/app/471810/Death_Squared/)                                 |
+| Dungeon Defenders                               |     4     | • Tower Defense                | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/65800/Dungeon_Defenders/)                              |
+| Gauntlet Slayer Edition                         |     4     | • Action <br/> Hack And Slash  | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/258970/Gauntlet_Slayer_Edition/)                       |
+| Magicka                                         |     4     | • Adventure                    | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/42910/Magicka/)                                        |
+| Magicka 2                                       |     4     | • Adventure                    | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/238370/Magicka_2/)                                     |
+| Move or Die                                     |     4     | • Party                        | • Versus                     | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323850/Move_or_Die/)                                   |
+| PlateUp!                                        |     4     | • Cooking <br/> • Party        | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1599600/PlateUp/)                                      |
+| Riptide GP: Renegade                            |     4     | • Racing                       | • Versus                     | 🪟     | • [Steam](https://store.steampowered.com/app/443860/Riptide_GP_Renegade/)                           |
+| Serious Sam 3: BFE                              |     4     | • First Person Shooter (FPS)   | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/41070/Serious_Sam_3_BFE/)                              |
+| Sonic & All-Stars Racing Transformed Collection |     4     | • Racing                       | • Versus                     | 🪟     | • [Steam](https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/) |
+| Trine 4                                         |     4     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/)                  |
+| Vagante                                         |     4     | • Action <br/> • Roguelike     | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                                       |
+| Knight Squad                                    |  5+ (8)   | • Action <br/> • Top-Down      | • Cooperative <br/> • Versus | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                                  |
+| PICO PARK                                       |  5+ (8)   | • 2D Platformer <br/> Puzzle   | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                                    |
 
 ## No Local Multiplayer
 
