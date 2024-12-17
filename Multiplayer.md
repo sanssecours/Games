@@ -214,6 +214,7 @@
 | This Means Warp                                 |     4     | • Survival <br/> • Top-Down    | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1269300/This_Means_Warp/)                              |
 | Trine 4                                         |     4     | • 2D Platformer <br/> • Puzzle | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/)                  |
 | Vagante                                         |     4     | • Action <br/> • Roguelike     | • Cooperative                | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/323220/Vagante/)                                       |
+| Wild Woods                                      |     4     | • Action <br/> • Roguelike     | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1975580/Wild_Woods/)                                   |
 | Knight Squad                                    |  5+ (8)   | • Action <br/> • Top-Down      | • Cooperative <br/> • Versus | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/294000/Knight_Squad/)                                  |
 | PICO PARK                                       |  5+ (8)   | • 2D Platformer <br/> Puzzle   | • Cooperative                | 🪟     | • [Steam](https://store.steampowered.com/app/1509960/PICO_PARK/)                                    |
 
