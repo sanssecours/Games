@@ -184,6 +184,7 @@
 
 | Name                        | # Players | Genre                        | Type                         | Local | Online | OS     | Links                                                                           |
 | --------------------------- | :-------: | :--------------------------- | :--------------------------- | :---: | :----: | ------ | ------------------------------------------------------------------------------- |
+| Shatter                     |     2     | • Arcade                     | • Cooperative                |  ✅   |   ❌   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/20820/Shatter/)                    |
 | Borderlands: The Pre-Sequel |     4     | • First Person Shooter (FPS) | • Cooperative                |  ❌   |   ✅   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/) |
 | Left 4 Dead                 |     4     | • First Person Shooter (FPS) | • Cooperative                |  ❌   |   ✅   | 🍎🪟   | • [Steam](https://store.steampowered.com/app/500/Left_4_Dead/)                  |
 | Age of Wonders III          |  5+ (8)   | • Strategy                   | • Cooperative                |  ❌   |   ✅   | 🍎🐧🪟 | • [Steam](https://store.steampowered.com/app/226840/Age_of_Wonders_III/)        |
