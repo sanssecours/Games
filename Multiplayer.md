@@ -197,6 +197,12 @@
 
 # Windows
 
+## Online
+
+| Name                | # Players | Genre    | Type     | OS  | Links                                                                                       |
+| ------------------- | :-------: | :------- | :------- | --- | ------------------------------------------------------------------------------------------- |
+| You Suck at Parking |     2     | • Racing | • Versus | 🪟  | • [Steam](https://store.steampowered.com/app/837880/You_Suck_at_Parking__Complete_Edition/) |
+
 ## Parsec
 
 | Name                                            | # Players | Genre                          | Type                         | OS     | Links                                                                                               |
