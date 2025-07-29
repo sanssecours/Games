@@ -15,7 +15,6 @@ HTML_FILE := $(OUTPUT_DIRECTORY)/$(OUTPUT_NAME).html
 
 default: html
 	open "$(OUTPUT_DIRECTORY)/index.html"
-	refresh-safari
 
 all: $(EPUB_FILE) $(HTML_FILE) $(PDF_FILE)
 
